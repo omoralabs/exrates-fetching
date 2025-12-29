@@ -1,4 +1,3 @@
-# This modules provides access to Motherduck and its persistent data (ohlcv and exchange tickers)
 import os
 
 import duckdb
