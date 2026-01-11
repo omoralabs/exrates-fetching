@@ -20,7 +20,11 @@ cp .env.example .env
 ## Usage
 
 ```bash
-uv run script.py
+uv run src/ex_rates_fetching/script.py
 ```
 
 Script runs idempotently - only fetches missing dates.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)
